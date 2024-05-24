@@ -63,12 +63,12 @@ class MyApp extends StatelessWidget {
                                     ),
                                   ),
                                   SizedBox(
-                                    height: 5,
+                                    height: 10,
                                   ),
                                   Text(
                                     "I'm in MVP stage\nand looking for seed funding",
                                     style: TextStyle(
-                                      color: Colors.black,
+                                      color: Colors.black38,
                                       fontSize: 13,
                                     ),
                                   )
